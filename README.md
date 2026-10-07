@@ -1,2 +1,12 @@
-# My-first-projects
-"A fully functional and responsive [projects like: E-commerce Website / Weather App] built using [ex: HTML, CSS, JavaScript]."
+# 🚀 Responsive Portfolio Website
+
+A professional and modern portfolio website designed to showcase projects and skills. Built with clean code and a fully responsive layout.
+
+### 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+### ✨ Features
+- 📱 **Fully Responsive:** Works perfectly on mobiles, tablets, and desktops.
+- 🎨 **Clean UI:** Modern and interactive user interface.
